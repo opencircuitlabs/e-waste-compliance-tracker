@@ -1,0 +1,5 @@
+node_modules/
+coverage/
+/manifest.json
+/report.md
+*.log

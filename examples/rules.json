@@ -1,0 +1,1 @@
+[{"id":"battery-electronics","productTypes":["controller"],"components":["lithium-battery"],"wasteCode":"E-BAT","stream":"battery-electronics","hazardous":true,"handling":["isolate-terminals","fire-safe-container"],"priority":10}]
